@@ -149,7 +149,7 @@ button:hover {
     }
 }
 
-@media screen and (max-width: 440px) {
+@media screen and (max-width: 475px) {
     .inner-container {
         margin: 1.825rem;
     }
